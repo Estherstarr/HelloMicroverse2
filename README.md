@@ -50,12 +50,6 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./MIT.md) licensed.
 
 
-
-
-
-
-
-
 # Personal Portfolio
 
 >  This is a personal portfolio website that will be used to display my projects.
